@@ -3,3 +3,6 @@ This is chat application
 Emojis
 Type option 
 Colours
+
+Dark mode
+Videos features
